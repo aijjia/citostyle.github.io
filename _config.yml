@@ -1,25 +1,25 @@
-title:            Site Title
-tagline:          A short tagline
+title:            citostyles notes
+tagline:          
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://citostyle.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           J&uuml;rgen Cito
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  bio:            'Freelancer in web development<br/><a href="http://informatik.tuwien.ac.at/">CS grad@TUVienna</a><br/>currently living in NYC'
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  linkedin:       
+  twitter:        'citostyle'
+  facebook:       'citostyle'
+  github:         'citostyle'
+  linkedin:       'jcito'
   instagram:      
   lastfm:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    'https://plus.google.com/u/0/105473337322017917703'
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -34,11 +34,6 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

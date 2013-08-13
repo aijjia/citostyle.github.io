@@ -1,21 +1,15 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-image:
-  feature: texture-feature-02.jpg
+title: About
+tagline: Juergen Cito
+tags: [about]
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com) as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Hi, my name is J&uuml;rgen Cito, and I'm a software engineer and CS grad student at <a href="http://www.informatik.tuwien.ac.at">Vienna University of Technology</a>, writing my thesis on 'Statistics in Web Performance' (working title) at the <a href="http://www.infosys.tuwien.ac.at/">Distributed Systems Group</a> in collaboration with <a href="http://www.catchpoint.com">Catchpoint Systems</a> where I'm currently conducting research in New York City. 
 
-## Minimal Mistakes is all about:
+I'm also a teaching assistant for various classes, next semester (probably the last time) for Advanced Software Engineering, Functional Programming and Database Systems.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments. Content first --- other widget nonsense never.
-* Large feature images for posts and pages.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+Mostly I'm using Java/Ruby (Rails or Sinatra) for software development. Currently I'm in love with Haskell, but unfortunately can't find the time to actually practice it.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+In my freetime I enjoy playing football, travelling all around the world (especially Europe and US), and listening to some good <a href="https://open.spotify.com/user/1120911358">music</a>.
